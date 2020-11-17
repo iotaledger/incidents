@@ -4,6 +4,6 @@ This repository contains the incident reports (post mortems) for the IOTA networ
 
 The current status of the IOTA networks can be found on the [status page](https://status.iota.org/).
 
-- Mainnet incidents
+- [Mainnet incidents](https://github.com/iotaledger/incidents/tree/main/mainnet)
 - Devnet incidents
 
